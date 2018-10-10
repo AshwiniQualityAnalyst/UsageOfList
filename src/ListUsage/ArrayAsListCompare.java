@@ -1,4 +1,4 @@
-//https://dzone.com/articles/how-to-compare-list-objects-in-java-7-vs-java-8-1
+//https://dzone.com/articles/how-to-compare-list-objects-in-java-7-vs-java-8-1 
 package ListUsage;
 
 import java.util.Arrays;
